@@ -3,9 +3,11 @@
 //     { id: "heading" },
 //     "Hello World From React!"
 // );
+ import React from "react";
+ import  ReactDOM from "react-dom/client";
 const parent = React.createElement("div", { id: "parent" }, [
     React.createElement("div", { id: "child1" },
-        [React.createElement("h1", {}, "This is from h1 child"),
+        [React.createElement("h1", {}, "This is headless react 🚀"),
         React.createElement("h2", {}, "This is from h2 child")]),
     React.createElement("div", { id: "child2" },
         [React.createElement("h1", {}, "This is from h1 child"),
