@@ -27,3 +27,23 @@
 - Tree Shaking - removed unused code
 
 # We should read parcel documentation
+
+# Restaurant card
+/**
+ * - Header
+ *   - Logo
+ *   - Nav Items
+ * - Body
+ *   -Search
+ *   - RestaurantContainer
+ *    - RestaurantCard
+ * - Footer
+ *   - Address
+ *   - Copyright
+ *   - Links
+ *   - Contact
+ *
+ *
+ *
+ *
+ */
